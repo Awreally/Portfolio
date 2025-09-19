@@ -24,13 +24,15 @@ body {
 
 .linkcontainer a {
     color: #fff;
-    font-size: 20px;
+    font-size: 18px;
     text-decoration: none;
     padding: 10px;
+    
 }
 
-
-
+.linkcontainer a:hover {
+    border-bottom: 1px solid #fff;
+}
 .social {
     list-style: none;
     display: flex;
