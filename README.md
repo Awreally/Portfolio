@@ -1,12 +1,11 @@
-<h1>Pontus Ingenius Portfolio</h1>
-<p>My personal website, that show all the projects that i have built.</p>
-
-## Projekt
-I want my website to be a platform for people to come and have a look at what im capable of doing. I want my portfolio website to be a place where i can showcase my work.
-
-### Future/do it
-I want to add a hero picture on the front page. 
-Change the color off the logo, text. 
-Add a slide show to show what websites i have created. 
-
-Link to the repo: [text](https://github.com/Awreally/Portfolio.git)
+# Pontus Ingenius Portfolio
+Detta är min personliga portfoliohemsida, skapad som en plattform för att samla och visa upp mina projekt. Här hittar du allt från mindre JavaScript-projekt till kompletta webb- och mobilapplikationer jag byggt under min resa som utvecklare.
+## Syfte
+* Visa upp mina kunskaper inom frontendutveckling och modern webbutveckling
+* Samla mina projekt på ett och samma ställe
+* Levande portfolio som växer i takt med att jag utvecklas och lär mig nya tekniker
+## Tekniker
+* HTML5
+* CSS3
+* Javascript
+### Länkar
