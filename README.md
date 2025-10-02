@@ -10,4 +10,4 @@ Detta är min personliga portfoliohemsida, skapad som en plattform för att saml
 * Javascript
 ### Info
 Länk till projektet
-🔗[GitHub-repo]()
+🔗[GitHub-repo](https://github.com/Awreally/Portfolio.git)
