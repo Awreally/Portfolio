@@ -8,4 +8,6 @@ Detta är min personliga portfoliohemsida, skapad som en plattform för att saml
 * HTML5
 * CSS3
 * Javascript
-### Länkar
+### Info
+Länk till projektet
+🔗[GitHub-repo]()
