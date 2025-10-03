@@ -10,7 +10,7 @@ body {
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-around;
-    background-color: #01200f;
+    background-color: #011502;
 }
 
 .logo {
@@ -56,16 +56,12 @@ body {
     gap: 2rem;
 }
 
-button {
+a {
     padding: 12px 28px;
-    border: none;
     text-align: center;
-    opacity: 0.7;
+    color: #fff;
 }
 
-button:hover {
-    opacity: 1;
-}
 
 .hero {
       background-image: url("images/Herobild.jpg");
