@@ -18,6 +18,16 @@ body {
     height: auto;
 }
 
+.menu-mobil {
+    display: none;
+    font-size: 24px;
+    background: none;
+    border: none;
+    color: #fff;
+    width: 24px;
+    height: 16px;
+    
+}
 
 .linkcontainer {
     list-style: none;
@@ -77,6 +87,10 @@ body {
       position: relative;
 }
 
+.hero.hidden {
+    display: none;
+}
+
 .gallery {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -111,4 +125,29 @@ body {
 
 .gallery-item12 {
     grid-column: span 2;
+}
+
+
+@media (max-width: 768px) {
+    .linkcontainer {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 60px;
+    }
+
+    .menu-mobil {
+        display: block;
+    }
+
+    .linkcontainer.active {
+        display: flex;
+    }
+}
+
+@media (min-width: 768px) {
+    .hero {
+        display: block !important;
+    }
+
 }
